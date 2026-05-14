@@ -12,4 +12,4 @@ Hello guys, I'm **Pengfei Qin**. I received a Master of Science degree from the 
 
 ## 📝 Papers
 
-- DGAT: Dynamic Gaussian Attenuate Transformer for Remote Sensing Image Change Captioning [TGRS 2025](https://ieeexplore.ieee.org/document/11289563)
+- [DGAT: Dynamic Gaussian Attenuate Transformer for Remote Sensing Image Change Captioning](https://ieeexplore.ieee.org/document/11289563)
